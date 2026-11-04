@@ -1,0 +1,13 @@
+EUSKARA PLAZARA - app instalable (PWA)
+
+Contenido: carpeta lista para publicar. Archivos: index.html (toda la app y el curso), manifest.webmanifest,
+sw.js (modo sin conexión), iconos y pages/ (páginas originales del PDF).
+
+Cómo ponerla en el móvil (gratis):
+1. Crea una cuenta en github.com y un repositorio público nuevo (por ejemplo "euskara").
+2. Sube el contenido de la carpeta (no el zip) al repositorio.
+3. En Settings > Pages elige la rama "main" y la carpeta raíz. Tardará un minuto.
+4. Abre en Chrome del móvil la dirección https://TU-USUARIO.github.io/euskara/ y elige "Instalar app".
+   A partir de ahí funciona sin conexión.
+
+Licencia del contenido: Creative Commons Reconocimiento-NoComercial-CompartirIgual 2.5 (Gorka Ioseba Bakero, aprendereuskera.com).
